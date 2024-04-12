@@ -65,7 +65,7 @@ public class Danimal extends Player {
         // For simplicity, let's just return false for now
         return false;
     }
-
+//
     private boolean hasThreeOfAKind() {
         // Implement logic to check if the player has three of a kind or better
         // Similar to hasPair(), but checking for three cards of the same rank
